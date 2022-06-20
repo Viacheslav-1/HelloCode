@@ -1,0 +1,15 @@
+C:\Users\Вячеслав\Desktop\Учёба GB\Знакомство с языками программирования (лекции)\Examples\Examples001_HelloCosole\bin\Debug\net6.0\Examples001_HelloCosole.exe
+C:\Users\Вячеслав\Desktop\Учёба GB\Знакомство с языками программирования (лекции)\Examples\Examples001_HelloCosole\bin\Debug\net6.0\Examples001_HelloCosole.deps.json
+C:\Users\Вячеслав\Desktop\Учёба GB\Знакомство с языками программирования (лекции)\Examples\Examples001_HelloCosole\bin\Debug\net6.0\Examples001_HelloCosole.runtimeconfig.json
+C:\Users\Вячеслав\Desktop\Учёба GB\Знакомство с языками программирования (лекции)\Examples\Examples001_HelloCosole\bin\Debug\net6.0\Examples001_HelloCosole.dll
+C:\Users\Вячеслав\Desktop\Учёба GB\Знакомство с языками программирования (лекции)\Examples\Examples001_HelloCosole\bin\Debug\net6.0\Examples001_HelloCosole.pdb
+C:\Users\Вячеслав\Desktop\Учёба GB\Знакомство с языками программирования (лекции)\Examples\Examples001_HelloCosole\obj\Debug\net6.0\Examples001_HelloCosole.csproj.AssemblyReference.cache
+C:\Users\Вячеслав\Desktop\Учёба GB\Знакомство с языками программирования (лекции)\Examples\Examples001_HelloCosole\obj\Debug\net6.0\Examples001_HelloCosole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вячеслав\Desktop\Учёба GB\Знакомство с языками программирования (лекции)\Examples\Examples001_HelloCosole\obj\Debug\net6.0\Examples001_HelloCosole.AssemblyInfoInputs.cache
+C:\Users\Вячеслав\Desktop\Учёба GB\Знакомство с языками программирования (лекции)\Examples\Examples001_HelloCosole\obj\Debug\net6.0\Examples001_HelloCosole.AssemblyInfo.cs
+C:\Users\Вячеслав\Desktop\Учёба GB\Знакомство с языками программирования (лекции)\Examples\Examples001_HelloCosole\obj\Debug\net6.0\Examples001_HelloCosole.csproj.CoreCompileInputs.cache
+C:\Users\Вячеслав\Desktop\Учёба GB\Знакомство с языками программирования (лекции)\Examples\Examples001_HelloCosole\obj\Debug\net6.0\Examples001_HelloCosole.dll
+C:\Users\Вячеслав\Desktop\Учёба GB\Знакомство с языками программирования (лекции)\Examples\Examples001_HelloCosole\obj\Debug\net6.0\refint\Examples001_HelloCosole.dll
+C:\Users\Вячеслав\Desktop\Учёба GB\Знакомство с языками программирования (лекции)\Examples\Examples001_HelloCosole\obj\Debug\net6.0\Examples001_HelloCosole.pdb
+C:\Users\Вячеслав\Desktop\Учёба GB\Знакомство с языками программирования (лекции)\Examples\Examples001_HelloCosole\obj\Debug\net6.0\Examples001_HelloCosole.genruntimeconfig.cache
+C:\Users\Вячеслав\Desktop\Учёба GB\Знакомство с языками программирования (лекции)\Examples\Examples001_HelloCosole\obj\Debug\net6.0\ref\Examples001_HelloCosole.dll
